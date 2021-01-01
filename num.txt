@@ -7,3 +7,14 @@ six
 ----
 eight
 nine
+----
+Ten
+ellwen
+Twowell
+Thirteen
+Fourteen
+Sixteen
+Seventeen
+Egihteen
+Nineteen
+Twowenty
