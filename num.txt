@@ -7,4 +7,3 @@ six
 ----
 eight
 nine
-ten
