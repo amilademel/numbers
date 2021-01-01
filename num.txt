@@ -32,4 +32,8 @@ towventy seven
 twoventy egiht
 twoventy nine
 Thrity
+---
+Thiryt one
+Thirty Three
+Thirty four
 
